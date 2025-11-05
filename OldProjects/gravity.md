@@ -8,7 +8,8 @@ permalink: /Gravity
 
 # Gravity Sliders
 
-Version 0.1 - Sept 2019  
+**Version 0.1 - Sept 2019**
+
 Players are members of an international military organization that uses an alien device to travel to other planets. The device creates a wormhole in the floor that they can jump into to “slide” to another planet. It is similar to Stargate. It is rules-lite and uses player facing rolls. Based on a lasers & feelings style roll over/under system. It is meant for one-shot adventures and has limited character advancement.
 
 # Player Rules
@@ -183,30 +184,3 @@ Ways for the GM to mix things up. Each time a player uses a characters skill, yo
 **I went to school too\!** An enemy uses a skill that they wouldn’t be expected to have.  
 **How could there be a pyramid here?** A device/structure turns out to be an ancient alien device. It is almost magical because of how advanced it is.  
 **Of course he’s here\!** A big baddie shows up just in time to taunt the players characters and escape.
-
-# Gravity Sliders Character Sheet
-
-Ryan Dallaire September 2019
-
-| Name: |  | Player: |  |  |
-| :---- | :---- | :---- | ----- | ----- |
-| **Stat:** |  | **Bonus:** |  |  |
-| Roll under for Smarts     Roll over for Action |  |  |  |  |
-| **Max Health:** |  | **Current Health:** |  |  |
-|  |  |  |  |  |
-| **Skills:** |  |  | **Improved** |  |
-| I know all about |  |  |  | ◻ |
-| I hate |  |  |  | ◻ |
-| I always carry my |  |  |  | ◻ |
-|  |  |  |  | ◻ |
-|  |  |  |  | ◻ |
-|  |  |  |  | ◻ |
-|  |  |  |  | ◻ |
-|  |  |  |  |  |
-| **Gear:** |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-

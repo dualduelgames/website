@@ -8,7 +8,7 @@ permalink: /Cavemen
 
 # Cavemen & Stone Aged Women
 
-# V0.8  October 2022
+**V0.8  October 2022**
 
 # Main Rules
 
