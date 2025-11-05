@@ -3,7 +3,7 @@ layout: default
 title: Spent Shells
 nav_order: 3
 parent: New Projects
-permalink: /ness
+permalink: /spentshells
 ---
 
 # Spent Shells RPG
