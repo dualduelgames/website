@@ -39,11 +39,11 @@ These background skills can prevent *Real Trouble* or can make a task a *Piece o
 ## Rewards
 
 If you are playing a prolonged adventure, the GM will give out rewards as you progress through the story. Here are the different types of rewards:  
-Minor \- Change their stat number  
-Minor \- Be issued a new piece of gear  
-Major \- Max HP increased by 2  
-Major \- Improve a skill (use twice per session)  
-Major \- Get another Skill “slot”
+**Minor** \- Change their stat number  
+**Minor** \- Be issued a new piece of gear  
+**Major** \- Max HP increased by 2  
+**Major** \- Improve a skill (use twice per session)  
+**Major** \- Get another Skill “slot”
 
 ## Special Bonus
 
@@ -57,9 +57,11 @@ Each character gets to pick one of the following bonuses:
 
 ## Combat
 
-Combat goes back and forth between the players & allies and enemies & environmental effects. On your turn you can take 1 action (and optionally a minor action) and then play moves on to the next character.  
-Attacks: Roll Action. If you succeed you deal damage to the target based on your weapon. If they have armour then decrease the damage dealt by 1\.  
-Defending: Roll based on the situation. If you succeed you dodge/block the attack and take no damage or effects.
+Combat goes back and forth between the players & allies and enemies & environmental effects. On your turn you can take 1 action (and optionally a minor action) and then play moves on to the next character.
+
+**Attacks:** Roll Action. If you succeed you deal damage to the target based on your weapon. If they have armour then decrease the damage dealt by 1\.
+
+**Defending:** Roll based on the situation. If you succeed you dodge/block the attack and take no damage or effects.
 
 ### Action Guide
 
@@ -100,57 +102,67 @@ In between missions the player characters can restock the gear they used (except
 
 ### Damage Guide
 
-Melee attacks		1 damage	Alien Weapons		3 damage  
-Bullets			2 damage	Explosions		4+ damage
+| **Melee attacks** | 1 damage | **Alien Weapons** | 3 damage |
+| **Bullets** | 2 damage | **Explosions** | 4+ damage |
 
 ### Armour Guide
 
-Bullet proof vest		1 armour vs ranged attacks  
-Env suit			Resistant to some environmental effects  
-Heavy armour		1 armour to every attack
+| **Bullet proof vest** | 1 armour vs ranged attacks |
+| **Env suit** | Resistant to some environmental effects |
+| **Heavy armour** | 1 armour to every attack |
 
 ### Range Guide
 
-Close Range		0-2 meters	Medium Range		13-50 meters  
-Short Range		3-12 meters	Long Range		51+ meters
+| **Close Range** | 0-2 meters | **Medium Range** | 13-50 meters |
+| **Short Range** | 3-12 meters | **Long Range** | 51+ meters |
 
 # Obstacles and Enemies
 
 Traps, minions, captured civilians, weird alien fauna, etc...
 
-| Name: | Civilian | Health: | 4 |
-| :---: | ----- | :---: | ----- |
-| **Stat:** | 5 | **Armour:** | 0 |
-| **Defense:** | Piece of Cake | **Attacks:** | Improvised, 1 dmg |
-| **Gear:** | Clothing |  |  |
+Name: Civilian
+Health: 4
+**Stat:** 5
+**Armour:**  0
+**Defense:** Piece of Cake
+**Attacks:** Improvised, 1 dmg
+**Gear:** Clothing
 
-| Name: | Alien Thug | Health: | 5 |
-| :---: | ----- | :---: | ----- |
-| **Stat:** | 2 | **Armour:** | 0 |
-| **Defense:** | Normal | **Attacks:** | Zapper, short, stuns/3 dmg |
-| **Gear:** | Uniform, Zapper |  |  |
+Name: Alien Thug
+Health: 5
+**Stat:** 2
+**Armour:** 0
+**Defense:** Normal
+**Attacks:** Zapper, short, stuns/3 dmg
+**Gear:** Uniform, Zapper
 
-| Name: | Alien Leader | Health: | 6 |
-| :---: | ----- | :---: | ----- |
-| **Stat:** | 5 | **Armour:** | 1 vs all |
-| **Defense:** | Real Trouble | **Attacks:** | Staff, medium, 3 dmg |
-| **Gear:** | Alien Armour, Alien Staff |  |  |
+Name: Alien Leader
+Health: 6
+**Stat:** 5
+**Armour:** 1 vs all
+**Defense:** Real Trouble
+**Attacks:** Staff, medium, 3 dmg
+**Gear:** Alien Armour, Alien Staff
 
-| Name | Trip Mine | Damage | 6 |
-| :---: | :---- | :---: | :---- |
-| Detect | Normal | Disarm | Real Trouble |
+Name: Trip Mine
+Damage:6
+Detect: Normal
+Disarm: Real Trouble
 
-| Name: | Alien creature | Health: | 3 |
-| :---: | ----- | :---: | ----- |
-| **Stat:** | 3 | **Armour:** | 0 |
-| **Defense:** | Real Trouble | **Attacks:** | Bite, Close Range, 1 Dmg |
+Name: Alien creature
+Health: 3
+**Stat:** 3
+**Armour:** 0
+**Defense:** Real Trouble
+**Attacks:** Bite, Close Range, 1 Dmg
 
 # GM Reference
 
 ### Planet Generator
 
-The list below is the details the player team was given when they were recruited for the mission. Roll on the table 3 times (or choose). The planet…
+The list below is the details the player team was given when they were recruited for the mission. Roll on the table 3 times (or choose).
 
+The planet…
 1. Has a stable climate  
 2. Has intelligent indigenous life  
 3. Has safe environment (acid rain, lava flow, etc)  
@@ -160,8 +172,9 @@ The list below is the details the player team was given when they were recruited
 
 ### Mission Generator
 
-Roll on the table below 3 times (or choose). The mission…
+Roll on the table below 3 times (or choose).
 
+The mission…
 1. Has been done before  
 2. Shouldn't take long  
 3. Requires only a few people  

@@ -284,46 +284,8 @@ Slash		10
 **Resources:**  
 3 fur, 3 bone
 
-**Name:** 		**Health:**   
-**Target Number:**   
-**Armour:**
 
-**Attack		Damage**
-
-**Resources:**
-
-**Name:** 		**Health:**   
-**Target Number:**   
-**Armour:**
-
-**Attack		Damage**
-
-**Resources:**
-
-**Name:** 		**Health:**   
-**Target Number:**   
-**Armour:**
-
-**Attack		Damage**
-
-**Resources:**
-
-**Name:** 		**Health:**   
-**Target Number:**   
-**Armour:**
-
-**Attack		Damage**
-
-**Resources:**
-
-**Name:** 		**Health:**   
-**Target Number:**   
-**Armour:**
-
-**Attack		Damage**
-
-**Resources:**
-
+Work in progress:
 
 Special items:  
 Improved hut  
