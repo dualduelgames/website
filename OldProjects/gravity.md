@@ -2,6 +2,7 @@
 layout: default
 title: Gravity Sliders v0.1
 nav_order: 3
+parent: Old Projects
 permalink: /Gravity
 ---
 
