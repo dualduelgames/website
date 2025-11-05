@@ -18,7 +18,7 @@ Enemy modifiers: a better weapon gives them \+1 to their TN when attacking, or b
 **Atk**: 1 x shiv  
 **Dmg**: 5
 
-![Cover Image](/img/spentshells/cultist.png)
+![Cultist](/img/spentshells/cultist.png)
 
 ## Demon
 
@@ -27,7 +27,7 @@ Enemy modifiers: a better weapon gives them \+1 to their TN when attacking, or b
 **Atk**: 1 x claws  
 **Dmg**: 7
 
-![Cover Image](/img/spentshells/demon.png)
+![Demon](/img/spentshells/demon.png)
 
 ## “The Beast”
 
@@ -38,4 +38,4 @@ Enemy modifiers: a better weapon gives them \+1 to their TN when attacking, or b
 **Dmg**: 7  
 **Special**: can light a fire by channeling its power through a tentacle.
 
-![Cover Image](/img/spentshells/beast.png)
+![Beast](/img/spentshells/beast.png)

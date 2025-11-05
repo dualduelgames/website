@@ -9,7 +9,7 @@ parent: Spent Shells
 
 **By Ryan Dallaire - Nov 2025**
 
-![Cover Image](/img/spentshells/story.png)
+![Story Intro Image](/img/spentshells/story.png)
 
 **The Old World**  
 No one knows exactly what caused the end of the old world. But ever since then, life has been a struggle. Ruined buildings lie everywhere, great storms circle the planet, never ending but always moving. Changes began to happen to the things still living here. Some mutated, others gained strange powers. The robotic machines that once kept the old world running have sentience and now wander the world looking for a new purpose.  

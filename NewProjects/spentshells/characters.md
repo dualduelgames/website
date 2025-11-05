@@ -9,11 +9,12 @@ parent: Spent Shells
 
 **By Ryan Dallaire - Nov 2025**
 
-![Cover Image](/img/spentshells/characters.png)
+![Characters](/img/spentshells/characters.png)
+
 
 ## Humans
 
-![Cover Image](/img/spentshells/humans.png)
+![Humans](/img/spentshells/humans.png)
 
 Descendants of the people who are responsible for this mess. There are people of all types from every corner of the planet.  
 **Health**: 2d6+10  
@@ -39,11 +40,11 @@ Descendants of the people who are responsible for this mess. There are people of
 * Escape Artist: \[Daily\] You can instantly escape bonds or cages.  
 * Body Builder: \[Passive\] Starting Health \+ 4\. You also get a \+1 bonus to physically intimidating someone.  
 * Home-schooled: \[Passive\] Get \+1 to a stat.  
-* 
+
 
 ## Robots
 
-![Cover Image](/img/spentshells/robots.png)
+![Robots](/img/spentshells/robots.png)
 
 Hopefully killing you isn’t in their terms and conditions. Built by the people of the “old world”. It's not clear if they were given sentience or if it developed on its own.  
 **Health**: 17 health  
@@ -67,11 +68,11 @@ Hopefully killing you isn’t in their terms and conditions. Built by the people
 * Built-in Weapon: \[Passive\] light weapon of your choice, cannot be disarmed of it.  
 * Overclocking: \[Daily\] For 1 minute, you get \+1 to both mental stats.  
 * RNG Module: \[Daily\] get 3 stunt points on next check.  
-* 
+
 
 ## Mutants
 
-![Cover Image](/img/spentshells/mutants.png)
+![Mutants](/img/spentshells/mutants.png)
 
 They prefer the term “genetically different person”. Maybe they look like a monster. Maybe they look like a human/animal hybrid.  
 **Health**: 2d6+6  
@@ -96,11 +97,11 @@ They prefer the term “genetically different person”. Maybe they look like a 
 * Green Skin: \[Passive\] you need half the normal amount of food, as long as you spend hours in the sun during the day.  
 * Empath: \[Passive\] while touching someone with both hands, you can tell if they are knowingly lying.  
 * Limb-Stretch: \[Encounter\] you can lengthen your arms to increase your melee range or your legs to increase your movement speed.  
-* 
+
 
 ## Wizards
 
-![Cover Image](/img/spentshells/wizards.png)
+![Wizards](/img/spentshells/wizards.png)
 
 Since the great storms began, some have been able to channel the power that now flows through the atmosphere.  
 **Health**: 2d6+5  
@@ -120,13 +121,12 @@ Since the great storms began, some have been able to channel the power that now 
 * It’s Alive: \[Daily\] you touch a creature (or robot) that died within the past 10 minutes. Roll a Deft check vs 13 TN. If you succeed, you bring the target back to life at 1 health. Make sure you stop the bleeding first.  
 * Distant Drums: \[Encounter\] you can create a thunderous sound that travels several miles. Everyone in the area will hear the sound, word, noise you make.  
 * Wind Blast: \[Encounter\] create a strong wind in the area, moving in one direction. Objects are blown in that direction and people can’t move against the wind. But they can stay still.  
-* 
 
 # Work In Progress:
 
 ## Acolytes
 
-![Cover Image](/img/spentshells/acolytes.png)
+![Acolytes](/img/spentshells/acolytes.png)
 
 Are you sure the gods haven’t abandoned us?  
 **Health**: 2d6+9  
@@ -141,7 +141,7 @@ Are you sure the gods haven’t abandoned us?
 
 ## Psychics
 
-![Cover Image](/img/spentshells/psychics.png)
+![Psychics](/img/spentshells/psychics.png)
 
 Lying to them might be a bad idea.  
 **Health**: 2d6+5  
@@ -153,3 +153,4 @@ Lying to them might be a bad idea.
 
 * Mind Reading: \[Daily\] access the surface level thoughts of a target. If the target is unconscious, you can try to make a minor change to their memory.  
 * Charisma: \[Daily\] sway people, neutral become friendly, enemies become neutral. Die roll determines how long it lasts.
+* 

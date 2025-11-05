@@ -9,10 +9,9 @@ parent: Spent Shells
 
 **By Ryan Dallaire - Nov 2025**
 
-![Cover Image](/img/spentshells/gear.png)
+![Gear Image](/img/spentshells/gear.png)
 
-| NAME | COST | DESCRIPTION |
-| :---- | :---- | :---- |
+| **NAME** | **COST** | **DESCRIPTION** |
 | Clothing | 2 bullets | Made from rags and scrap |
 | Light Melee Weapon | 3 bullets | 1D6 damage, 4 durability, range touch |
 | Heavy Melee Weapon | 5 bullets | 2D6 damage, 6 durability, range close |

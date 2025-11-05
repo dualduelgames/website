@@ -19,17 +19,17 @@ Stats start anywhere from \-2 to \+6. Your character type determines how you gen
 
 ### **Physical Stats**
 
-Might \- strength, endurance, bravery, intimidation  
-Deft  \- accuracy, coordination, agility, dexterity
+**Might** \- strength, endurance, bravery, intimidation  
+**Deft**  \- accuracy, coordination, agility, dexterity
 
 ### **Mental Stats**
 
-Clever \- knowledge, perception, problem solving, creativity  
-Social \- persuasion, culture, insight, deception
+**Clever** \- knowledge, perception, problem solving, creativity  
+**Social** \- persuasion, culture, insight, deception
 
 ### **Health**
 
-starts at a value based on your character type. Average health for a new character is 15\. 
+Health starts at a value based on your character type. Average health for a new character is 15\. 
 
 ### **Skills**
 
@@ -79,32 +79,33 @@ If you roll three 1s when making a skill check or attack, you get a critical fai
 
 ### **Difficulty Target Numbers**
 
-Easy (11), Normal (13), Medium (15), Tough (17)
+| Easy | Normal | Medium | Tough |
+| 11 | 13 | 15 | 17 |
 
 ### **Damage**
 
-Light (1d6 or 3\) \- One handed weapon, poison  
-Medium (1d6+2 or 5\) \- minions  
-Heavy (2d6 or 7\) \- two handed weapon, monster  
-Extreme (2d6+2 or 9\) \- grenades, boss
+**Light** (1d6 or 3\) \- One handed weapon, poison  
+**Medium** (1d6+2 or 5\) \- minions  
+**Heavy** (2d6 or 7\) \- two handed weapon, monster  
+**Extreme** (2d6+2 or 9\) \- grenades, boss
 
 ### **Actions**
 
 You get 2 actions per turn. Can perform the same action twice.  
-Move \- Move up to 6 meters, or half that through difficult terrain.  
-Grapple \- Make a Might roll to grab a target or an item.  
-Climb \- Move your character but a Deft/Might roll every 4 meters you move.  
-Attack \- Make an attack roll against a target in range.  
-Aim \- Add \+2 to the next attack you make this turn.  
-Dodge \- Add \+2 to the next dodge test you make before your next turn.  
-Hide \- Roll to try and hide from anyone who can’t currently see you.  
-Interact \- Pull a lever, grab something from your bag, etc…  
-Ability \- Do whatever the ability says.
+**Move** \- Move up to 6 meters, or half that through difficult terrain.  
+**Grapple** \- Make a Might roll to grab a target or an item.  
+**Climb** \- Move your character but a Deft/Might roll every 4 meters you move.  
+**Attack** \- Make an attack roll against a target in range.  
+**Aim** \- Add \+2 to the next attack you make this turn.  
+**Dodge** \- Add \+2 to the next dodge test you make before your next turn.  
+**Hide** \- Roll to try and hide from anyone who can’t currently see you.  
+**Interact** \- Pull a lever, grab something from your bag, etc…  
+**Ability** \- Do whatever the ability says.
 
 ### **Range**
 
-Touch (1 meter) \- right up next to you  
-Close (2 meters) \- a step away  
-Near (6 m) \- across the room  
-Far (12 m) \- across the street  
-Very Far (24+ m) \- even further
+**Touch** (1 meter) \- right up next to you  
+**Close** (2 meters) \- a step away  
+**Near** (6 m) \- across the room  
+**Far** (12 m) \- across the street  
+**Very Far** (24+ m) \- even further

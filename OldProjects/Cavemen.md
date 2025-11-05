@@ -45,7 +45,9 @@ Rituals	Perform a magic ritual/sacrifice
 * There is a penalty for failure  
 * Cannot be repeated infinitely
 
-The situation should change whenever a roll happens. For better or worse.  
+The situation should change whenever a roll happens. For better or worse.
+
+{: .highlight }  
 **Remember to “Let it Ride\!”**  
 Don’t have the players reroll a check until something about the situation has changed.  
 *They can’t roll again until they get a new tool, someone helps them, or they wait some time.*
@@ -150,7 +152,8 @@ Exposure starts at 0\.
 
 \* \= Requires someone trained in crafting.
 
-| Item Name*Recipe* | Effects | T.N. |
+| Item Name
+*Recipe* | Effects | T.N. |
 | ----- | :---: | :---: |
 | Water for 1 person for a day *1 Water* |  | 2 |
 | Feed 1 person for a day *1 Food* |  | 2 |
