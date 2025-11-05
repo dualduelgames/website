@@ -1,6 +1,6 @@
 ---
 layout: default
-title: N.E.S.S. RPG
+title: Spent Shells
 nav_order: 3
 parent: New Projects
 permalink: /ness
