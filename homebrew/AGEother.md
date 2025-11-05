@@ -1,18 +1,11 @@
 ---
-
 layout: default
-
 title: Fantasy Age Misc
-
 parent: Homebrew
-
 ---
 
 
-
-\#Fantasy Age 2E Misc Table
-
-
+# Fantasy Age 2E Misc Table
 
 | Name | Price | Description | Type |
 | Sabaton | 7sp |  | feet |
@@ -47,9 +40,9 @@ parent: Homebrew
 | Mana Potion |  | regains 2d6 MP | potion |
 | Minor Mana Potion |  | regains 1d6 MP | potion |
 | Arrows(10) | 1sp | For bows | ammo |
-| Elven Arrows(10) | 3sp | "For bows |  half the weight" | ammo |
+| Elven Arrows(10) | 3sp | "For bows, half the weight" | ammo |
 | Bolts(12) | 2sp | For crossbows | ammo |
 | Sling Bullets(12) | 1sp | For slings | ammo |
 | Blowgun Darts(5) | 1sp | For Blowguns | ammo |
-| Stone Arrows(10) | 1sp | "For bows |  break easily" | ammo |
+| Stone Arrows(10) | 1sp | "For bows, break easily" | ammo |
 

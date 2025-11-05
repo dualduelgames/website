@@ -4,7 +4,8 @@ title: Fantasy Age Weapons
 parent: Homebrew
 ---
 
-#Fantasy Age 2E Weapon Table
+
+# Fantasy Age 2E Weapon Table
 
 | Name | Price | Description | Type | Min Str |
 | Stone Axe | 9sp | 1d6 | Axes | 1 |
@@ -67,7 +68,7 @@ parent: Homebrew
 | Trident | 17sp | 2d6 | Polearms | 2 |
 | Tepoztopilli | 14sp | 2d6 | Polearms | 1 |
 | Javelin | 12sp | 1d6+3 (thrown 8y/16y) Minor reload | Spears | 0 |
-| Pilum | 12sp | "1d6+3 (thrown 8y/16y) Minor reload |  tip bends after use |  can't be thrown back" | Spears | 0 |
+| Pilum | 12sp | "1d6+3 (thrown 8y/16y) Minor reload, tip bends after use, can't be thrown back" | Spears | 0 |
 | Stone Tip Spear | 8sp | 1d6 | Spears | 0 |
 | Spear | 12sp | 1d6+3 | Spears | 0 |
 | Twohanded Spears | 20sp | 2d6 | Spears | 1 |
@@ -81,4 +82,4 @@ parent: Homebrew
 | Whip | 8sp | 1d6+1 (melee range 6 yards) | Whips | 0 |
 | Chain Whip | 12sp | 2d6 (melee range 6 yards) | Whips | 1 |
 | Blowgun | 6sp | 1d3+2 (range 10y/20y) Minor reload | Other | - |
-| Boomerang | 9sp | "1d6 (thrown 10y/20y) Minor reload |  returns on a Dex test (or accuracy test?)" | Other | 1 |
+| Boomerang | 9sp | "1d6 (thrown 10y/20y) Minor reload, returns on a Dex test (or accuracy test?)" | Other | 1 |
