@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Cairn 2E
+title: Cairn Homebrew
 has_children: true
 nav_order: 3
 ---
 
-# Cairn 2E
+# Cairn Homebrew
