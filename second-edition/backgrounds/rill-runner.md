@@ -2,7 +2,7 @@
 title: Rill Runner
 layout: default
 parent: Backgrounds
-grand_parent: Second Edition
+grand_parent: Cairn 2E
 ---
 
 # Rill Runner
