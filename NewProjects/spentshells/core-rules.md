@@ -34,6 +34,8 @@ Health starts at a value based on your character type. Average health for a new 
 ### **Skills**
 
 Skills are descriptions for a type of roll you get a \+2 bonus to. Such as being good at athletics, it could apply to rolls you make with any stat. A skill can be improved later on, increasing the bonus from \+2 to \+4.  
+
+{: .highlight } 
 *Skills shouldn’t be too broad or too narrow. “Combat” is too broad but “AK-47” is too narrow and the player might not be able to ever use it. “Firearms” is a good mid-point and won’t become an issue for the GM to create challenges where it can be used.*
 
 ### **Durability**
