@@ -10,6 +10,8 @@ permalink: /spentshells
 
 **By Ryan Dallaire - May 2025**
 
+![Cover Image](/img/spentshells/cover.png)
+
 Items could work like spells, you roll to see if they work or if you find enough parts. Bullets are currency. Roll 3D6 \+ stat vs a target number.
 
 ## Stats
@@ -110,6 +112,8 @@ Very Far (24+ m) \- even further
 
 # Gear
 
+![Cover Image](/img/spentshells/gear.png)
+
 | NAME | COST | DESCRIPTION |
 | :---- | :---- | :---- |
 | Clothing | 2 bullets | Made from rags and scrap |
@@ -125,7 +129,7 @@ Very Far (24+ m) \- even further
 | Rations | 1 bullet | Enough to survive for several days |
 | Water Bottle | 1 bullet | Enough to drink for a couple days |
 | Room at the Inn | 1 bullet | A “bed” to sleep on |
-| Road Flare | 3 bullets | Shines light for an hour, good for signalling |
+| Road Flare | 3 bullets | Shines light for an hour, good for signaling |
 | Med-kit | 5 bullets | Use to heal 2d6 health |
 | Gas Mask | 4 bullets | Ignore poison gases |
 | Rope | 3 bullets | 20 meters of rope, made from plant fibres |
@@ -144,7 +148,11 @@ Very Far (24+ m) \- even further
 
 # Characters
 
+![Cover Image](/img/spentshells/characters.png)
+
 ## Humans
+
+![Cover Image](/img/spentshells/humans.png)
 
 Descendants of the people who are responsible for this mess. There are people of all types from every corner of the planet.  
 **Health**: 2d6+10  
@@ -174,6 +182,8 @@ Descendants of the people who are responsible for this mess. There are people of
 
 ## Robots
 
+![Cover Image](/img/spentshells/robots.png)
+
 Hopefully killing you isn’t in their terms and conditions. Built by the people of the “old world”. It's not clear if they were given sentience or if it developed on its own.  
 **Health**: 17 health  
 **Stats**: stat values you assigned to each stat as you wish. 0, 1, 2, 3  
@@ -199,6 +209,8 @@ Hopefully killing you isn’t in their terms and conditions. Built by the people
 * 
 
 ## Mutants
+
+![Cover Image](/img/spentshells/mutants.png)
 
 They prefer the term “genetically different person”. Maybe they look like a monster. Maybe they look like a human/animal hybrid.  
 **Health**: 2d6+6  
@@ -226,6 +238,8 @@ They prefer the term “genetically different person”. Maybe they look like a 
 * 
 
 ## Wizards
+
+![Cover Image](/img/spentshells/wizards.png)
 
 Since the great storms began, some have been able to channel the power that now flows through the atmosphere.  
 **Health**: 2d6+5  
@@ -258,12 +272,16 @@ Enemy modifiers: a better weapon gives them \+1 to their TN when attacking, or b
 **Atk**: 1 x shiv  
 **Dmg**: 5
 
+![Cover Image](/img/spentshells/cultist.png)
+
 ## Demon
 
 **TN**: 14  
 **HP**: 15  
 **Atk**: 1 x claws  
 **Dmg**: 7
+
+![Cover Image](/img/spentshells/demon.png)
 
 ## “The Beast”
 
@@ -274,7 +292,11 @@ Enemy modifiers: a better weapon gives them \+1 to their TN when attacking, or b
 **Dmg**: 7  
 **Special**: can light a fire by channeling its power through a tentacle.
 
+![Cover Image](/img/spentshells/beast.png)
+
 # Story:
+
+![Cover Image](/img/spentshells/story.png)
 
 **The Old World**  
 No one knows exactly what caused the end of the old world. But ever since then, life has been a struggle. Ruined buildings lie everywhere, great storms circle the planet, never ending but always moving. Changes began to happen to the things still living here. Some mutated, others gained strange powers. The robotic machines that once kept the old world running have sentience and now wander the world looking for a new purpose.  
@@ -382,9 +404,11 @@ Because it needs the fire to burn the victims, the players can distract the beas
 
 Each player is given a special tax exemption for the town or faction they represent. Also, the Cult of the Storm building in Cheeks is emptied and the players are allowed to use it as a home base.
 
-# Other stuff:
+# InProgress:
 
 ## Acolytes
+
+![Cover Image](/img/spentshells/acolytes.png)
 
 Are you sure the gods haven’t abandoned us?  
 **Health**: 2d6+9  
@@ -398,6 +422,8 @@ Are you sure the gods haven’t abandoned us?
 * 
 
 ## Psychics
+
+![Cover Image](/img/spentshells/psychics.png)
 
 Lying to them might be a bad idea.  
 **Health**: 2d6+5  
