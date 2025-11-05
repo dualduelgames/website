@@ -23,7 +23,7 @@ Rowan, Tamsin, Rook, Tiriel, Bronwyn, Sylara
 - Padded Leather (1 Armour)
 - Tent (fits 2, _bulky_)
 
-## Where did oyu grow up? Roll 1d6:
+## Where did you grow up? Roll 1d6:
 
 |       |                                                                                                                                                                                            |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
