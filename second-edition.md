@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Second Edition
+title: Cairn 2E
 has_children: true
-nav_order: 8
-redirect_from: /wip/2e/
+nav_order: 3
 ---
 
-# Second Edition
+# Cairn 2E
