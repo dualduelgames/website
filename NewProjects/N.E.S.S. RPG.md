@@ -6,8 +6,6 @@ parent: New Projects
 permalink: /ness
 ---
 
-# N.E.S.S.
-
 # Never Ending Subterranean Slaughter
 
 **By Ryan Dallaire - May 2025**
