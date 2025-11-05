@@ -1,8 +1,8 @@
 ---
 title: Ranger
 layout: default
-parent: Backgrounds
-grand_parent: Cairn Homebrew
+parent: Cairn Backgrounds
+grand_parent: Homebrew
 ---
 
 # Ranger

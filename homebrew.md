@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Cairn Homebrew
+title: Homebrew
 has_children: true
 nav_order: 3
 ---
 
-# Cairn Homebrew
+# RPG Homebrew

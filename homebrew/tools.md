@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-parent: Cairn Homebrew
+parent: Homebrew
 has_children: true
 nav_order: 4
 ---

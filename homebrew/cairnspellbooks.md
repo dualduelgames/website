@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Spellbooks
-parent: Cairn Homebrew
+title: Cairn Spellbooks
+parent: Homebrew
 ---
 
-# Spellbooks
+# Cairn 2E Spellbooks
 Spells are split into several categories. Each one has a different theme. For a random spell you can roll to decide the type of magic, and then roll to see which spell of that type.
 
 

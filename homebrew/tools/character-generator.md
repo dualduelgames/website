@@ -2,7 +2,7 @@
 layout: page
 title: Character Generator
 parent: Tools
-grand_parent: Cairn Homebrew
+grand_parent: Homebrew
 ---
 
 <div style="height:80vh; width:100%;">
