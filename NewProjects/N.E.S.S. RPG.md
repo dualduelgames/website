@@ -14,24 +14,27 @@ The reason the players are exploring the underground world is to find these gems
 
 # Basic Rules
 
-Roll two six sided dice (2d6) and add your stat and compare it to a target number (TN) for the target’s defense or the area TN, or compare it to a roll made by another character.  
-Stats:  
-Brawniness \- Strength, Endurance, Athletics,   
-Nimbleness \- Dexterity, Agility, Accuracy,   
-Cleverness \- Intelligence, Wisdom, Memory,   
-Braveness \- Charisma, Willpower, Bravery,   
+Roll two six sided dice (2d6) and add your stat and compare it to a target number (TN) for the target’s defense or the area TN, or compare it to a roll made by another character.
+
+**Stats:**
+Brawniness \- Strength, Endurance, Athletics
+Nimbleness \- Dexterity, Agility, Accuracy
+Cleverness \- Intelligence, Wisdom, Memory
+Braveness \- Charisma, Willpower, Bravery
+
 Magic takes up an inventory slot, because the magic can only be channeled through a magic item. Such as a magic ring or magic sword.
 
 ## Target Numbers
 
-The number you need to meet or beat to succeed on a roll is called a Target Number (or TN). Different obstacles and creatures will have different TNs. But also different areas will also have a TN that the GM can use at any time in place of another TN. If the GM wants to modify the TN for an area, they can add \+2 to make it harder or \-2 to make it easier.  
-*Example Target Numbers:*  
-*Normal task for level 1	10*  
-*Hard task for level 1		12*  
-*Normal task for level 5	12*  
-*Hard task for level 5		14*  
-*Normal task for level 10	14*  
-*Hard task for level 10		16*
+The number you need to meet or beat to succeed on a roll is called a Target Number (or TN). Different obstacles and creatures will have different TNs. But also different areas will also have a TN that the GM can use at any time in place of another TN. If the GM wants to modify the TN for an area, they can add \+2 to make it harder or \-2 to make it easier.
+ 
+|**Example Target Numbers:**|      |
+|*Normal task for level 1*  |   10 |
+|*Hard task for level 1     |   12 |
+|*Normal task for level 5*  |   12 | 
+|*Hard task for level 5*    |   14 |  
+|*Normal task for level 10* |   14 | 
+|*Hard task for level 10*   |   16 |
 
 ## Advantage and Disadvantage
 
@@ -345,13 +348,19 @@ Prices are in Copper pieces.
 
 | Armour Type | Armour  | Cost |
 | ----- | :---: | :---: |
-| Light Armour*Gameson, Brigandine* | 1 | 100 |
-| Heavy Armour*Full Plate, Chainmail* | 2 | 450 |
+| Light Armour
+*Gameson, Brigandine* | 1 | 100 |
+| Heavy Armour
+*Full Plate, Chainmail* | 2 | 450 |
 
 | Weapon Type | Damage | Cost |
 | ----- | :---: | :---: |
 | Improvised Weapons | d4 | 0 |
-| 1 Handed Melee*Club, Sword, Shield strike, Axe* | d8 | 25 |
-| 2 Handed Melee*War hammer, Halberd, Long Sword, Battle Axe* | d10 | 40 |
-| 1 Handed Ranged*Sling, Thrown Weapons, Pistol* | d8 | 30 |
-| 2 Handed Ranged*Bow, Crossbow, Rifle* | d10 | 55 |
+| 1 Handed Melee
+*Club, Sword, Shield strike, Axe* | d8 | 25 |
+| 2 Handed Melee
+*War hammer, Halberd, Long Sword, Battle Axe* | d10 | 40 |
+| 1 Handed Ranged
+*Sling, Thrown Weapons, Pistol* | d8 | 30 |
+| 2 Handed Ranged
+*Bow, Crossbow, Rifle* | d10 | 55 |
