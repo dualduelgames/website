@@ -6,9 +6,13 @@ parent: N.E.S.S. RPG
 ---
 
 # Core Rules
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
 
 The reason the players are exploring the underground world is to find these gemstones to sell or use.The larger gemstones could also have effects on their environment before they are mined and removed.
+
+1. TOC
+{:toc}
 
 # Basic Rules
 
