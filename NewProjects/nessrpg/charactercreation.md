@@ -32,41 +32,43 @@ parent: N.E.S.S. RPG
 ## Abilities
 
 **General**  
-Area of Knowledge \- you gain an area of knowledge and the required reference materials.  
-Loads-a-Money \- You start the game with twice as much money.   
-Large \- Your body counts as 50% bigger than normal. You get \+2 HP and \-1 to Nimble.  
-Small \- Your body counts as 50% smaller than normal. You get \+1 to Nimble and \-2 to HP.  
-Fast \- Your movements are faster than average. Your Move actions let you move 7 meters.  
-Learned \- You gain an Knowledge Expertise in a subject of your choice. This also uses up an item slot in your inventory.   
-Polyglot \- You know how to speak, read, and write in 2 other languages of your choice.  
-Contemplative Fighting \- You can use the aid action on your turn to give yourself a \+2 bonus to damage on that attack.  
-Martial Training \- When you attack, you can attempt to disarm an opponent holding an item, or knock them prone. This negates the damage you would have dealt instead.   
-Hiding \- As an action you can roll to hide even if you only have partial cover.  
-Precise Attack \- Use an Aid action on your turn to Aim. Then the next weapon attack you make on your turn can also ignore the target’s armour and shield.  
-Toastmaster \- You always roll with advantage when trying to persuade or inspire allies. You also get advantage when trying to convince someone to become one of your hirelings to help you on your quest.  
-Hello, I'm a Bard \- You always have a tomato or similar item when you need to boo someone's performance. You also have the uncanny ability to find an instrument at the perfect moment for a performance.  
-Tough Stuff \- You gain resistance to a damage type of your choice.   
-Discombobulate \- When you hit with an attack, you can decrease your damage to 1 and give the target the Confused condition for 1 round.  
-Threatening \- You always count as having used the Harry action on your turn. But still can only make 1 such attack per round.  
-Raging \- You get a \+1 bonus to damage if you move towards the target right before attacking. (Same turn) And also a \+1 bonus if you are outnumbered by enemies by at least 2\.  
-Monk Dodge \- When a melee attack misses you, you can either push them 1 meter or knock them prone.  
-Dodger \- You always count as having used the Parry action against the first attack per turn. But it still only affects the first attack against you that round.  
-Precise strike \- If you take the aid action on your turn to aim, you can ignore the Covered condition if the target has it and you still get advantage on the attack.  
-Quick Reload \- You can automatically load a bow or sling when you use an action to attack with it.  
-Retreat \- As a special action, you take a moment to plan your retreat, your next movement on this turn doesn’t trigger the harry action from those around you.  
-Tracker \- You can track a creature moving through the environment without making a roll. If they are actively trying to prevent you from following them you make a roll normally.  
+* Area of Knowledge \- you gain an area of knowledge and the required reference materials.  
+* Loads-a-Money \- You start the game with twice as much money.   
+* Large \- Your body counts as 50% bigger than normal. You get \+2 HP and \-1 to Nimble.  
+* Small \- Your body counts as 50% smaller than normal. You get \+1 to Nimble and \-2 to HP.  
+* Fast \- Your movements are faster than average. Your Move actions let you move 7 meters.  
+* Learned \- You gain an Knowledge Expertise in a subject of your choice. This also uses up an item slot in your inventory.   
+* Polyglot \- You know how to speak, read, and write in 2 other languages of your choice.  
+* Contemplative Fighting \- You can use the aid action on your turn to give yourself a \+2 bonus to damage on that attack.  
+* Martial Training \- When you attack, you can attempt to disarm an opponent holding an item, or knock them prone. This negates the damage you would have dealt instead.   
+* Hiding \- As an action you can roll to hide even if you only have partial cover.  
+* Precise Attack \- Use an Aid action on your turn to Aim. Then the next weapon attack you make on your turn can also ignore the target’s armour and shield.  
+* Toastmaster \- You always roll with advantage when trying to persuade or inspire allies. You also get advantage when trying to convince someone to become one of your hirelings to help you on your quest.  
+* Hello, I'm a Bard \- You always have a tomato or similar item when you need to boo someone's performance. You also have the uncanny ability to find an instrument at the perfect moment for a performance.  
+* Tough Stuff \- You gain resistance to a damage type of your choice.   
+* Discombobulate \- When you hit with an attack, you can decrease your damage to 1 and give the target the Confused condition for 1 round.  
+* Threatening \- You always count as having used the Harry action on your turn. But still can only make 1 such attack per round.  
+* Raging \- You get a \+1 bonus to damage if you move towards the target right before attacking. (Same turn) And also a \+1 bonus if you are outnumbered by enemies by at least 2\.  
+* Monk Dodge \- When a melee attack misses you, you can either push them 1 meter or knock them prone.  
+* Dodger \- You always count as having used the Parry action against the first attack per turn. But it still only affects the first attack against you that round.  
+* Precise strike \- If you take the aid action on your turn to aim, you can ignore the Covered condition if the target has it and you still get advantage on the attack.  
+* Quick Reload \- You can automatically load a bow or sling when you use an action to attack with it.  
+* Retreat \- As a special action, you take a moment to plan your retreat, your next movement on this turn doesn’t trigger the harry action from those around you.  
+* Tracker \- You can track a creature moving through the environment without making a roll. If they are actively trying to prevent you from following them you make a roll normally.  
+
 **Supernatural**  
-Natural Weapon \- A part of your body counts as a melee weapon, like a beak or claws. Does the same damage as a 1 handed melee weapon. Can’t be disarmed from this weapon.  
-Climber \- You can move up/along most surfaces at your normal move speed. You can’t be carrying items in your hands while climbing.  
-Healer’s Touch \- You spend a few minutes tending to a creature’s wounds, using whatever supplies you can find. The target regains 4 HP. This can only be done to the same creature once per day.  
-Amphibious \- You can hold your breath for 15 minutes and don’t suffer a penalty for swimming.  
-Detect Gems \- You stand still, close your eyes and focus for a moment. You become aware of the location and direction of unmined gemstones and crystals within 50 meters of you.  
-Detect Magic \- You stand still, close your eyes and focus for a moment. You become aware of the location and direction of active magic items within 200 m of you.  
-Truther \- You stand still, close your eyes and focus for a moment. You become aware if anyone within 5 meters of you knowingly lies.
+* Natural Weapon \- A part of your body counts as a melee weapon, like a beak or claws. Does the same damage as a 1 handed melee weapon. Can’t be disarmed from this weapon.  
+* Climber \- You can move up/along most surfaces at your normal move speed. You can’t be carrying items in your hands while climbing.  
+* Healer’s Touch \- You spend a few minutes tending to a creature’s wounds, using whatever supplies you can find. The target regains 4 HP. This can only be done to the same creature once per day.  
+* Amphibious \- You can hold your breath for 15 minutes and don’t suffer a penalty for swimming.  
+* Detect Gems \- You stand still, close your eyes and focus for a moment. You become aware of the location and direction of unmined gemstones and crystals within 50 meters of you.  
+* Detect Magic \- You stand still, close your eyes and focus for a moment. You become aware of the location and direction of active magic items within 200 m of you.  
+* Truther \- You stand still, close your eyes and focus for a moment. You become aware if anyone within 5 meters of you knowingly lies.
 
 ## Areas of Knowledge
 
-A character might know everything there is to know about a particular subject. They allow you to roll to know about something related to that area of knowledge. Roll a Cleverness check vs the area TN. Having expertise in an area of knowledge also takes up one item slot in your inventory. This represents the tomes or scrolls you bring with you for reference.  
+A character might know everything there is to know about a particular subject. They allow you to roll to know about something related to that area of knowledge. Roll a Cleverness check vs the area TN. Having expertise in an area of knowledge also takes up one item slot in your inventory. This represents the tomes or scrolls you bring with you for reference.
+
 But there are limits to the knowledge, such as knowing about the undead: they know about how they are made and their weaknesses but don’t know about specific things like where a certain necromancer has his hideout. Without an area of knowledge, a player can still make a roll to see what they know, but they will only know basic non-specific knowledge.
 
 1. **The Undead** \- You know about the types of undead and the methods of their creation and destruction. You can easily identify the tools and rituals used to create them.  

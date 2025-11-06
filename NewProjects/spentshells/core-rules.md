@@ -81,7 +81,7 @@ If you roll three 1s when making a skill check or attack, you get a critical fai
 
 ### **Difficulty Target Numbers**
 
-| Easy | Normal | Medium | Tough |
+| **Easy** | **Normal** | **Medium** | **Tough** |
 | 11 | 13 | 15 | 17 |
 
 ### **Damage**
