@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Story
+title: Story - Spent Shells RPG
 nav_order: 4
 parent: Spent Shells
 ---
 
 # Story
-
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
+
+1. TOC
+{:toc}
 
 ![Story Intro Image](/img/spentshells/story.png)
 

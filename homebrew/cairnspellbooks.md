@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cairn Spellbooks
+title: Cairn 2E Spellbooks
 parent: Homebrew
 ---
 

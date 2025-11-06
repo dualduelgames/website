@@ -7,8 +7,11 @@ permalink: /Gravity
 ---
 
 # Gravity Sliders
-
+{: .no_toc }
 **Version 0.1 - Sept 2019**
+
+1. TOC
+{:toc}
 
 Players are members of an international military organization that uses an alien device to travel to other planets. The device creates a wormhole in the floor that they can jump into to “slide” to another planet. It is similar to Stargate. It is rules-lite and uses player facing rolls. Based on a lasers & feelings style roll over/under system. It is meant for one-shot adventures and has limited character advancement.
 

@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Character Creation
+title: Character Creation - NESS RPG
 nav_order: 2
 parent: N.E.S.S. RPG
 ---
 
 # Character Creation
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
+
+1. TOC
+{:toc}
+
+## Steps
 
 1. Each player character starts with a max Health of 16 and a Defense that starts at 8\.  
 2. You pick an Ancestry which will modify your stats. You then get to add \+1 to two stats of your choice.  

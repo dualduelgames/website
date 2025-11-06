@@ -7,8 +7,11 @@ permalink: /Cavemen
 ---
 
 # Cavemen & Stone Aged Women
-
+{: .no_toc }
 **V0.8  October 2022**
+
+1. TOC
+{:toc}
 
 # Main Rules
 

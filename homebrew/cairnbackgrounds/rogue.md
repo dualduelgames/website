@@ -1,7 +1,7 @@
 ---
-title: Rogue
+title: Rogue Background - Cairn 2E
 layout: default
-parent: Cairn Backgrounds
+parent: Cairn 2E Backgrounds
 grand_parent: Homebrew
 ---
 

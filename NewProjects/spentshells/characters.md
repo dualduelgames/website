@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Characters
+title: Characters - Spent Shells RPG
 nav_order: 3
 parent: Spent Shells
 ---
 
 # Characters
-
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
+
+1. TOC
+{:toc}
 
 ![Characters](/img/spentshells/characters.png)
 

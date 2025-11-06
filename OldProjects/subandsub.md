@@ -7,8 +7,12 @@ permalink: /subandsub
 ---
 
 # Subterfuge & Submachine Guns
+{: .no_toc }
 Version 0.4 By Ryan Dallaire Oct 2022 
- 
+
+1. TOC
+{:toc}
+
 Players are members of an international spy organization. Trying to stop an evil organization, bent on world domination. It is rules-lite and uses player facing rolls. Based on a lasers & feelings style roll over/under system.  
 
 

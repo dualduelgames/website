@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Magic Gemstones
+title: Magic Gemstones - NESS RPG
 nav_order: 3
 parent: N.E.S.S. RPG
 ---

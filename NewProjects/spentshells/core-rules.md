@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Core Rules
+title: Core Rules - Spent Shells RPG
 nav_order: 1
 parent: Spent Shells
 ---
 
 # Core Rules
-
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
+
+1. TOC
+{:toc}
 
 ![Cover Image](/img/spentshells/cover.png)
 
