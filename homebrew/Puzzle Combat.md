@@ -18,6 +18,7 @@ The enemy will have several “traits” that make them dangerous and have to be
 > - It can breath fire
 > - It has tough armour-like scales
 > - Territorial
+> 
 > **But it can also have some weaknesses**
 > - It loves treasure
 > - Thinks of itself as the apex-predator
@@ -32,10 +33,10 @@ Such as an army of 200 goblins that are coming to destroy a town. They might hav
 
 {: .highlight }
 > **Such as**
-> Getting the townsfolk and nearby farmers to form a militia
-> Building barricades on the roads into town
-> Having a wizard in the watchtower shooting fireballs down at the goblins
-> The rest of the players are going to hide until the army passes them and then attack from behind as the goblins siege the town.
+> - Getting the townsfolk and nearby farmers to form a militia
+> - Building barricades on the roads into town
+> - Having a wizard in the watchtower shooting fireballs down at the goblins
+> - The rest of the players are going to hide until the army passes them and then attack from behind as the goblins siege the town.
 
 
 
