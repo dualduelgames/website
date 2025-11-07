@@ -9,6 +9,7 @@ permalink: /Gravity
 # Gravity Sliders
 {: .no_toc }
 **Version 0.1 - Sept 2019**
+This is a hack of [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings).
 
 1. TOC
 {:toc}
