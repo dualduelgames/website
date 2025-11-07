@@ -2,6 +2,7 @@
 layout: default
 title: Portals and Teleporters
 parent: Homebrew
+permalink: /portals
 ---
 
 # Portals & Teleporters FAQ
