@@ -266,8 +266,8 @@ A creature killed by this spell becomes a frozen statue.
 
 # Familiar
 
-## Calf
-
+Calf
+{: .label .label-green }
 *Medium beast, unaligned*  
 \--------------------------------------------------------------------------------  
 **Armor class** 10  
@@ -289,8 +289,8 @@ Str	Dex	Con	Int	Wis	Cha
 
 # Elementals
 
-## Cheese Elemental
-
+Cheese Elemental
+{: .label .label-yellow }
 *Large elemental, neutral*  
 \---------------------------------------------------------------------------  
 **Armor class** 17  
@@ -317,8 +317,8 @@ Str	Dex	Con	Int	Wis	Cha
 **Multiattack.** The elemental makes two slam attacks.  
 **Slam**. Melee weapon attack: \+7 to hit, reach 10ft, one target. *Hit:* 14 (2d8+5) bludgeoning damage.
 
-## Milk Elemental
-
+Milk Elemental
+{: .label .label-yellow }
 Large elemental, neutral  
 \--------------------------------------------------------------------------------  
 **Armor class** 14  
