@@ -61,6 +61,7 @@ Power Word Milk
 
 # Spell Descriptions
 
+
 Bovine Intervention
 {: .fs-6 }
 *2nd-level Lactomancy (Wizard)*  
@@ -75,7 +76,7 @@ You can also specify conditions that will trigger a special activity during the 
 If you or any of your companions damage the target, the spell ends.
 
 Buttery Coating
-{: .label }
+{: .fs-6 }
 *1st-level Lactomancy (Wizard)*  
 **Casting Time:** 1 action  
 **Range:** 60 feet  
@@ -85,7 +86,7 @@ Buttery Coating
 Butter covers a surface in up to a 15-foot radius within range. Anyone who moves through or into or out of the area must succeed a Dexterity saving throw or fall prone.
 
 Calcium Vampire
-{: .label }
+{: .fs-6 }
 *3rd-level Lactomancy (Wizard)*  
 **Casting Time:** 1 action  
 **Range:** Self  
@@ -96,7 +97,7 @@ The touch of your hand can siphon life force from the bones of your target to he
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 Charm Mammal
-{: .label }
+{: .fs-6 }
 *1st-level Lactomancy (Wizard)*  
 **Casting Time:** 1 action  
 **Range:** 30 feet  
@@ -108,7 +109,7 @@ You attempt to charm a mammal or marsupial you can see. It must make a Wisdom sa
 **At Higher Levels:** You can target one additional creature for each slot level above 1st. They must be within 30 feet of each other when you target them.
 
 Cheese Bridge
-{: .label }
+{: .fs-6 }
 *4th-level Lactomancy (Wizard)*  
 **Casting Time:** 1 action  
 **Range:** Touch  
