@@ -23,7 +23,7 @@ I created these rules for a character I was playing in a campaign. I only create
 **Bovine Transposition**  
 10th level \- As an action, you can replace any liquid within 5ft of you with milk. Or you can flavor any milk within 5ft of you to be plain, chocolate, strawberry, or coffee flavoured. You can use this ability on up to 3 gallons of liquid per day. You can also now flavour the milk you create with the Create/Destroy Milk spell.  
 **Milk is life**  
-14th level bonus \- Milk that you conjure acts as a healing potion. Anyone who drinks a serving regains 2d6 HP. A creature can only benefit from this effect once per long rest. And you can now cast the Water Walk spell on yourself without using a spell slot (once per long rest).
+14th level bonus \- Milk that you conjure acts as a healing potion. Anyone who drinks a serving regains 2d4 HP. A creature can only benefit from this effect once per long rest. And you can now cast the Water Walk spell on yourself without using a spell slot (once per long rest).
 
 
 # Spell List
@@ -62,7 +62,7 @@ Power Word Milk
 # Spell Descriptions
 
 Bovine Intervention
-{: .label }
+{: .fs-6 }
 *2nd-level Lactomancy (Wizard)*  
 **Casting Time:** 1 action  
 **Range:** 30 feet  
