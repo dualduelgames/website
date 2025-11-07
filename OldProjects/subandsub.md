@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Subteruge and Submachine Guns
+title: Subterfuge and Submachine Guns
 nav_order: 3
 parent: Old Projects
 permalink: /subandsub
