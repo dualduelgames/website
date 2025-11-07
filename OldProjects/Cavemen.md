@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cavemen & Stone Aged Women v0.8
+title: Cavemen & Stone Aged Women
 nav_order: 2
 parent: Old Projects
 permalink: /Cavemen

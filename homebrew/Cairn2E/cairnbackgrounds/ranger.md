@@ -1,5 +1,5 @@
 ---
-title: Ranger Background - Cairn 2E
+title: Ranger Background
 layout: default
 parent: Cairn 2E Backgrounds
 grand_parent: Cairn 2E

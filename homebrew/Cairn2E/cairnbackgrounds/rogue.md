@@ -1,5 +1,5 @@
 ---
-title: Rogue Background - Cairn 2E
+title: Rogue Background
 layout: default
 parent: Cairn 2E Backgrounds
 grand_parent: Cairn 2E
