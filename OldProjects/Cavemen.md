@@ -155,9 +155,7 @@ Exposure starts at 0\.
 
 \* \= Requires someone trained in crafting.
 
-| Item Name
-*Recipe* | Effects | T.N. |
-| ----- | :---: | :---: |
+| **Item Name** *Recipe* | **Effects** | **T.N.** |
 | Water for 1 person for a day *1 Water* |  | 2 |
 | Feed 1 person for a day *1 Food* |  | 2 |
 | Melee (Club, Spear, etc) *2 Wood* | 1d6 dmg | 7 |
@@ -191,7 +189,6 @@ Rituals take 15 minutes to perform.
 
 *More Rituals Here*
 
-# 
 
 # Beasts & People
 

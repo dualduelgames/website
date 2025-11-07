@@ -160,6 +160,8 @@ Health: 3
 **Defense:** Real Trouble
 **Attacks:** Bite, Close Range, 1 Dmg
 
+---
+
 # GM Reference
 
 ### Planet Generator

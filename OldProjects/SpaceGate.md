@@ -141,56 +141,51 @@ In between missions the player characters can restock the gear they used (except
 
 After you use a weapon (in or out of battle) you have to reload it. It takes Spare Ammo if it is a weapon from earth or an Energy Cell if it is an Alien Weapon. Battery powered equipment also needs to be recharged after their time limit using Spare Batteries.
 
-| You get 1 of the following: |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-| **Name** | **Description** |  | **Name** | **Description** |
-| SMG | Medium Range, reload, loud |  | Binoculars | See long range |
-| Pistol | Short Range, reload |  | Flashlight | Battery lasts 12 hours. |
-| Sniper Rifle | Long Range, heavy, reload, loud |  | Radio | 2 way comm, long range. |
-| Grenade | Short Range, 3 Damage |  | Rations | 1 day of food and water |
-| Spare Ammo/ Batteries | Reload a weapon from earth.
-Or recharge a battery. |  | Med Kit | Heals Health, 2 uses |
-| Bullet-proof Vest | \+1 Max Health while wearing. |  | Env Suit | \+D6 to resist envir effects. |
-| Repair Kit | Repair earth tech, minor dmg |  | Night Vision Goggles | See medium range, Battery lasts 4 hours |
-| Knife | Close Range |  | Trip Mine | Triggered, 3 Damage |
-| Climbing Gear | \+D6 to rolls for climbing |  | Laptop | \+D6 to interact with tech |
-| **Special equipment: (you can't pick these but can find them)** |  |  |  |  |
-| Alien Zapper | Short Range, Stun or dmg, reload |  | EM Field | Immune to stuns, lasts for 4 hours |
-| Alien Staff | Medium Range, heavy, reload, loud |  | Alien Armour | Slow, \+1 Max Health, 1 damage limit, battery lasts 8 hours |
-| Energy Cell | Reload/recharge alien tech. |  | Stealth Field | Invisible, lasts for 15 minutes, can’t move while active |
+### Items
+
+You get 1 of the following:
+
+| **Name** | **Description** | **Name** | **Description** |
+| SMG | Medium Range, reload, loud | Binoculars | See long range |
+| Pistol | Short Range, reload | Flashlight | Battery lasts 12 hours. |
+| Sniper Rifle | Long Range, heavy, reload, loud | Radio | 2 way comm, long range. |
+| Grenade | Short Range, 3 Damage | Rations | 1 day of food and water |
+| Spare Ammo/ Batteries | Reload a weapon from earth. Or recharge a battery. | Med Kit | Heals Health, 2 uses |
+| Bullet-proof Vest | \+1 Max Health while wearing. | Env Suit | \+D6 to resist envir effects. |
+| Repair Kit | Repair earth tech, minor dmg | Night Vision Goggles | See medium range, Battery lasts 4 hours |
+| Knife | Close Range | Trip Mine | Triggered, 3 Damage |
+| Climbing Gear | \+D6 to rolls for climbing | Laptop | \+D6 to interact with tech |
+
+**Special equipment: (you can't pick these but can find them)**
+
+| Alien Zapper | Short Range, Stun or dmg, reload | EM Field | Immune to stuns, lasts for 4 hours |
+| Alien Staff | Medium Range, heavy, reload, loud | Alien Armour | Slow, \+1 Max Health, 1 damage limit, battery lasts 8 hours |
+| Energy Cell | Reload/recharge alien tech. | Stealth Field | Invisible, lasts for 15 minutes, can’t move while active |
 
 # Obstacles and Enemies
 
 Traps, minions, captured civilians, weird alien fauna, etc…
 
-| Name: | Human Civilian | Health: | 3 |
-| ----- | :---- | :---: | :---- |
-| **Attack:** | 0 | **Defense:** | 0 |
-| **Damage:** | 1 | **Special:** |  |
-| **Gear:** | Clothing |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| **Name** | Human Civilian | **Health** | 3 |
+| **Attack** | 0 | **Defense** | 0 |
+| **Damage** | 1 | **Special** |  |
+| **Gear** | Clothing |  |  |
 
-| Name: | Alien Thug | Health: | 4 |
-| ----- | :---- | :---: | :---- |
+| **Name** | Alien Thug | **Health** | 4 |
 | **Attack:** | 0 | **Defense:** | \-1 |
 | **Damage:** | 1/stun | **Special:** |  |
 | **Gear:** | Alien Uniform, zapper weapon |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
-| Name: | Alien Leader | Health: | 6 |
-| ----- | :---- | :---: | :---- |
+| **Name** | Alien Leader | **Health** | 6 |
 | **Attack:** | \-1 | **Defense:** | \-1 |
 | **Damage:** | 1+ | **Special:** |  |
 | **Gear:** | Alien Uniform, Staff weapon |  |  |
-|  |  |  |  |
-|  |  |  |  |
 
-| Name: | Alien Beast | Health: | 2 |
-| :---: | :---- | :---: | :---- |
+| **Name** | Alien Beast | **Health** | 2 |
 | **Attack:** | \-1 | **Defense:** | 0 |
 | **Damage:** | 1 | **Special:** |  |
+
+---
 
 # GM Reference
 
@@ -279,33 +274,3 @@ The players arrive at the Space Gate on the outskirts of a farming village. They
 * The locals try to arrest the players as heretics.  
 * The players arrive one day before the Heliarchs will arrive and take the food.  
 * A Heliarch monolith ship has landed nearby and has alien technology.
-
-# Space Gate Character Sheet
-
-Ryan Dallaire February 2023
-
-| Name: |  | Player: |  |  |
-| :---- | :---- | :---- | :---- | ----- |
-| **Flaw:** |  | **Bonus:** |  |  |
-|  |  |  |  |  |
-| **Max Health:** |  | **Current Health:** |  |  |
-| **Bold:** |  | **Subtle:** |  |  |
-| **Clever:** |  | Roll D6 \= to stat. Getting a 5 or 6 is a success. Get \+1D6 for an applicable skill. Get \+1D6 for excellent equipment. Get \-1D6 for bad situation or bad equipment. |  |  |
-|  |  |  |  |  |
-| **Skills:** |  |  |  |  |
-| I know all about |  |  |  |  |
-| I'm a pro at |  |  |  |  |
-| I always carry my |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| **Gear:** |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| Most weapons deal 1 damage when you successfully roll. Heavy weapons can deal more damage if you roll multiple dice and get multiple successes. |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
