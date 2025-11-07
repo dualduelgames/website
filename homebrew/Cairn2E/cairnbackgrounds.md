@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cairn 2E Backgrounds
-parent: Homebrew
+parent: Cairn 2E
 has_children: true
 search_exclude: true
 ---

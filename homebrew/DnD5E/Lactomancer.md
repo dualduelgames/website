@@ -2,6 +2,7 @@
 layout: default
 title: DnD 5E Lactomancer
 permalink: /lactomancer
+parent: DnD5E
 ---
 
 # Lactomancer
