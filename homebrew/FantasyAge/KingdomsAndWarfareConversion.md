@@ -10,9 +10,9 @@ parent: Fantasy Age
 
 I started converting some rules for MCDM's "Kingdoms and Warfare" book. Swapping out the 5E rules. I never finished it.
 
-{: .important }
-Normal text replaces what is in the book.  
-*Italic text specifies some changes to make for what is in the book. (Such as changing 30 feet to 10 yards)*
+{: .note }
+> Normal text replaces what is in the book.  
+> *Italic text specifies some changes to make for what is in the book. (Such as changing 30 feet to 10 yards)*
 
 1. TOC
 {:toc}
