@@ -1,20 +1,14 @@
 ---
-
 layout: default
-
 title: Fantasy Age
-
 parent: Homebrew
-
-has\_children: true
-
-search\_exclude: true
-
+has_children: true
+search_exclude: true
 ---
 
 
 
-\# Fantasy Age 2E Homebrew
+# Fantasy Age 2E Homebrew
 
 
 
