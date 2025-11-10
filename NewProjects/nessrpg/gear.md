@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gear
+title: Gear - NESS RPG
 nav_order: 4
 parent: N.E.S.S. RPG
 ---

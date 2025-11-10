@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enemies
+title: Enemies - Spent Shells RPG
 nav_order: 5
 parent: Spent Shells
 ---

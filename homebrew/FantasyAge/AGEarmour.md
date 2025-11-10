@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fantasy Age Armour
-parent: Homebrew
+parent: Fantasy Age
 ---
 
 

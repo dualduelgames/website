@@ -1,14 +1,19 @@
 ---
 layout: default
-title: Subteruge and Submachine Guns
+title: Subterfuge and Submachine Guns
 nav_order: 3
 parent: Old Projects
 permalink: /subandsub
 ---
 
 # Subterfuge & Submachine Guns
-Version 0.4 By Ryan Dallaire Oct 2022 
- 
+{: .no_toc }
+**Version 0.4 By Ryan Dallaire Oct 2022**
+This is a hack of [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings).
+
+1. TOC
+{:toc}
+
 Players are members of an international spy organization. Trying to stop an evil organization, bent on world domination. It is rules-lite and uses player facing rolls. Based on a lasers & feelings style roll over/under system.  
 
 
@@ -102,6 +107,7 @@ Each player character gets some basic gear: fancy clothes of your choice, a pist
 **Extra Ammo** \- Refill ammo for someone who has run out, or reload an found weapon that is out of ammo.  
 **SMG** \- Can be shot at a single target like any other gun, or the damage can be split up between multiple targets.
 
+---
 
 # GM Rules
 

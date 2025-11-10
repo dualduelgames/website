@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gear
+title: Gear - Spent Shells RPG
 nav_order: 2
 parent: Spent Shells
 ---

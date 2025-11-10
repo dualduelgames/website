@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fantasy Age Weapons
-parent: Homebrew
+parent: Fantasy Age
 ---
 
 

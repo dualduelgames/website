@@ -1,16 +1,20 @@
 ---
 layout: default
-title: Core Rules
+title: Core Rules - NESS RPG
 nav_order: 1
 parent: N.E.S.S. RPG
 ---
 
 # Core Rules
+{: .no_toc }
 **By Ryan Dallaire - Nov 2025**
 
 The reason the players are exploring the underground world is to find these gemstones to sell or use.The larger gemstones could also have effects on their environment before they are mined and removed.
 
-# Basic Rules
+1. TOC
+{:toc}
+
+## Basic Rules
 
 Roll two six sided dice (2d6) and add your stat and compare it to a target number (TN) for the target’s defense or the area TN, or compare it to a roll made by another character.
 
